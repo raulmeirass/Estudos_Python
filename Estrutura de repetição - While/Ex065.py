@@ -1,6 +1,6 @@
 num = c = total = menor = maior = 0
 resp = ' s '
-while resp != 'N':
+while resp != 'N': #aprendizado concluido.
     num = int(input('Digite um número: '))
     c = c + 1
     total = num + total

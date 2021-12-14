@@ -14,4 +14,3 @@ while cont <= term:
     t2 = t3
     cont = cont + 1
 print('FIM')
-
